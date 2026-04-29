@@ -1,10 +1,7 @@
 CRM_with_QW_notice/
+Lib/
 __pycache__/
 *.pyc
-*.pyo
 .env
 *.xlsx
-*.xls
-*.egg-info/
-dist/
-build/
+test_db.py
